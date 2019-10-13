@@ -1,6 +1,6 @@
 # Face-Recognition
 
-This project aims to develop a **face recognition pipeline** which could recognize people on the basis of facial recognition with a high accuracy using Histogram of Oriented Gradient (HOG) feature descriptor. Generally a face recognition pipeline involves the following steps:
+This project aims to develop a **face recognition pipeline** which could recognize people on the basis of facial features with a high accuracy using Histogram of Oriented Gradient (HOG) feature descriptor. Generally a face recognition pipeline involves the following steps:
 
 **Step 1:** Locate and extract faces from each image
 
