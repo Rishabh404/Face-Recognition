@@ -12,4 +12,4 @@ This project aims to develop a **face recognition pipeline** which could recogni
 
 **Step 5:** Check Eucledian distance between face encodings
 
-In this project all of the above steps are went through to develop a final classifier.
+In this project all of the above steps are tackled in a sequential manner to develop the final classifier.
